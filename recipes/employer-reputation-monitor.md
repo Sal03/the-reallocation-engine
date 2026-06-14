@@ -1,3 +1,11 @@
+---
+status: DRAFT
+todos_open: 12
+last_gate: null
+attestation: null
+recipe_version: 0.1.0
+---
+
 # employer-reputation-monitor -- Job Search Reputation Signals
 
 ## Purpose

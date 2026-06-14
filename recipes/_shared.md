@@ -1,6 +1,10 @@
 ---
-type: contract
+status: DRAFT
+todos_open: 0
+last_gate: null
+attestation: null
 recipe_version: 0.1.0
+type: contract
 ---
 
 # Shared Recipe Contract

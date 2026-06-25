@@ -150,3 +150,23 @@ private emails, or sensitive application notes.
 - **Rebuilt:** `node scripts/build-instructions.mjs --promote` → `AGENTS.md` + `CLAUDE.md` regenerated; `CLAUDE.md` now imports `@SNICKERDOODLE.md`.
 - **Untouched:** `data/` CSVs (real company names containing "mycroft") and prior RUN_LOG history (append-only).
 - **Result:** conformance + doctor green; no stale `MYCROFT.md` outside data/history.
+
+## Setup Exercise — Your Search's Personal Layer (Completed 2026-06-24)
+
+**Files created:** search/resume.json (attested, 3 errors corrected), search/profile.yml, search/gaps.md, search/private-notes.md (gitignored)
+
+**Three attestation errors corrected in resume.json:**
+1. Format conversion from LaTeX to JSON (necessary for Reallocation Engine)
+2. Project date format: May 2025 -> 2025-05 (display format preserved)
+3. Verified project descriptions against original resume as honest baseline
+
+**Top gap:** Product management - customer-driven vision and data-driven prioritization. NVIDIA work was execution-focused; need to demonstrate customer discovery, feature prioritization from research, and impact measurement.
+
+**Row killed and why:** "TypeScript/Rust systems programming" - neither appeared as required/preferred across 5 target postings. Python, C++, Java sufficient for SWE/TPM roles in AI/cloud.
+
+**Profile.yml correction:** Added "Series C (if founders/team exceptional)" as secondary target; public companies remain primary.
+
+**Verification check:**
+- resume.json: all entries traceable to LinkedIn / offer letters / references.
+- profile.yml: visa dates accurate (OPT ends Sept 2027); STEM confirmed; 30-day buffer.
+- gaps.md: all evidence sourced to 5 postings + O*NET; no invented demand signals.

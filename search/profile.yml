@@ -2,11 +2,11 @@ target_role: "Software Engineer or Technical Product Manager in AI/cloud infrast
 
 visa_constraints:
   visa_type: "F-1 OPT with STEM OPT extension eligibility"
-  stem_eligible: "yes"
+  stem_eligible: "uncertain"
   stem_extension_eligible: true
   authorization_end_date: "2027-09-30"
   dso_confirmation_date: null
-  dso_confirmation_notes: "Confirm with Northeastern DSO before engine uses this as a gate"
+  dso_confirmation_notes: "STEM OPT extension can only be filed after securing employment at an E-Verify employer; eligibility to use it is uncertain until then. Confirm with Northeastern DSO before engine treats this as a gate."
   days_unemployment_used: 0
   days_unemployment_available: 60
   stem_extension_available: true

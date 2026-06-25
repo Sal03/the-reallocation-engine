@@ -168,5 +168,5 @@ private emails, or sensitive application notes.
 
 **Verification check:**
 - resume.json: all entries traceable to LinkedIn / offer letters / references.
-- profile.yml: visa dates accurate (OPT ends Sept 2027); STEM confirmed; 30-day buffer.
+- profile.yml: visa dates accurate (OPT ends Sept 2027); STEM eligibility marked UNCERTAIN (extension only filable after E-Verify employment secured; not yet confirmed with DSO); 30-day buffer.
 - gaps.md: all evidence sourced to 5 postings + O*NET; no invented demand signals.

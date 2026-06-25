@@ -33,7 +33,7 @@ Reviewed 5 job postings for target roles (SWE/TPM in AI/cloud, public companies)
 
 ## Notes
 
-- **Evidence sourced from:** 5 job postings (Microsoft PM, Microsoft SWE MAIDAP, NVIDIA CUDA, Applied Materials TPM, NVIDIA QA), O*NET SOC 15-1131.00 (Computer Systems Analysts), BLS OEWS 2024 role trends
+- **Evidence sourced from:** 5 job postings I reviewed directly (Microsoft PM, Microsoft SWE MAIDAP, NVIDIA CUDA, Applied Materials TPM, NVIDIA QA). O*NET/BLS references in the gaps table are unverified pointers, not sources I confirmed; the verified evidence is the JD text itself.
 - **Patterns observed:** All 5 postings emphasize systems depth (architecture, performance, debugging), AI/ML exposure, and hands-on shipping experience
 - **Your strengths per resume:** Backend systems, data pipelines, distributed computing concepts, AI/ML projects, cloud platforms, stakeholder communication (NVIDIA internship)
 - **Gaps philosophy:** Gaps close when you ship, measure, and document—not when you take courses

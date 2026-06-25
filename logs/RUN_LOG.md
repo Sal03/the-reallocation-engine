@@ -156,9 +156,9 @@ private emails, or sensitive application notes.
 **Files created:** search/resume.json (attested, 3 errors corrected), search/profile.yml, search/gaps.md, search/private-notes.md (gitignored)
 
 **Three attestation errors corrected in resume.json:**
-1. Format conversion from LaTeX to JSON (necessary for Reallocation Engine)
-2. Project date format: May 2025 -> 2025-05 (display format preserved)
-3. Verified project descriptions against original resume as honest baseline
+1. Removed 'Kubernetes' from skills — listed from coursework but never shipped to production; cannot defend in an interview.
+2. Removed 'Fault-Tolerant Systems' from skills — familiar academically but no shipped work to demonstrate it.
+3. Softened LTIMindtree 'improved operational efficiency by 18%' — the 18% was an unverified estimate, not a sourced measurement, so the figure was removed.
 
 **Top gap:** Product management - customer-driven vision and data-driven prioritization. NVIDIA work was execution-focused; need to demonstrate customer discovery, feature prioritization from research, and impact measurement.
 
@@ -167,6 +167,6 @@ private emails, or sensitive application notes.
 **Profile.yml correction:** Added "Series C (if founders/team exceptional)" as secondary target; public companies remain primary.
 
 **Verification check:**
-- resume.json: all entries traceable to LinkedIn / offer letters / references.
+- resume.json: audited against my real record — removed two skills I could not defend (Kubernetes, Fault-Tolerant Systems) and one unverified metric (LTIMindtree 18%). Remaining entries are defensible.
 - profile.yml: visa dates accurate (OPT ends Sept 2027); STEM eligibility marked UNCERTAIN (extension only filable after E-Verify employment secured; not yet confirmed with DSO); 30-day buffer.
 - gaps.md: all evidence sourced to 5 postings + O*NET; no invented demand signals.

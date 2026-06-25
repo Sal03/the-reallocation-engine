@@ -1,7 +1,7 @@
 {
   "attested": true,
-  "attested_date": "2026-06-24",
-  "attestation_note": "Three errors corrected: (1) Format conversion from LaTeX to JSON structure (necessary for Reallocation Engine processing); (2) Project date format standardized from 'May 2025' to ISO 2025-05 with display format preserved; (3) Verified project descriptions against original resume—treating provided descriptions as honest baseline for this attestation pass.",
+  "attested_date": "2026-06-25",
+  "attestation_note": "Three errors corrected after attestation pass: (1) Removed 'Kubernetes' from skills — it was listed from coursework/exposure but I have not shipped a production Kubernetes deployment and could not defend it in an interview; (2) Removed 'Fault-Tolerant Systems' from skills — same reason: a concept I am familiar with academically but cannot demonstrate with shipped work; (3) Softened the LTIMindtree 'improved operational efficiency by 18%' claim — the 18% was an unverified estimate I cannot source to a measurement or reference, so the quantified figure was removed rather than asserted as fact.",
   "personal_info": {
     "name": "Saloni Angre",
     "email": "angresaloni0310@gmail.com",
@@ -60,13 +60,11 @@
       "Distributed Computing",
       "Microservices",
       "Data Pipelines",
-      "Fault-Tolerant Systems",
       "Scalable Services"
     ],
     "cloud_infrastructure": [
       "AWS",
       "Docker",
-      "Kubernetes",
       "CI/CD",
       "Cloud-Native Applications",
       "Monitoring"
@@ -126,7 +124,7 @@
       "duration_display": "July 2022 – August 2024",
       "key_accomplishments": [
         "Designed, built, and shipped scalable backend services, APIs, and distributed applications using Python, Java, SQL, and AWS supporting enterprise-scale workflow automation and data-driven platforms.",
-        "Developed cloud-native data pipelines, processing services, and analytics workflows that improved operational efficiency by 18% while supporting high-volume business operations.",
+        "Developed cloud-native data pipelines, processing services, and analytics workflows that improved operational efficiency while supporting high-volume business operations.",
         "Owned software features through the complete lifecycle including requirements analysis, architecture design, implementation, testing, deployment, monitoring, and continuous optimization.",
         "Built reporting systems, monitoring solutions, and operational dashboards that improved visibility, reliability, issue resolution, and stakeholder decision-making across distributed environments."
       ],
